@@ -1,4 +1,6 @@
-# CSCI355
+# CSCI355 Internet and Web Technologies
+
+
 
 This is the Final Project for 355 <P>
   In this project I use 2 different API which is weather API with API Key and COVID API<p>
